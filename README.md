@@ -70,6 +70,8 @@ Cost and attempts grow exponentially with level.
 Magic weapons are significantly more expensive:
 - up to ~10x higher cost and attempts
 
+![Cost & Attempts](screenshot/cost_attempts.png)
+
 ---
 
 ### Magic vs Physical Weapons
@@ -78,6 +80,8 @@ Magic weapons require consistently higher investment across all levels.
 
 - difference is multiplicative, not linear
 - gap increases with level
+
+![Magic vs Physical](screenshot/magic_vs_physical.png)
 
 ---
 
@@ -88,6 +92,8 @@ Using a stone reduces effective difficulty:
 - +13 with stone ≈ +10 without stone
 - equivalent to reducing complexity by 2–3 levels
 
+![Physical Weapon](screenshot/physical_weapon_vs_stone.png)
+
 ---
 
 ### Local Effect (Armor)
@@ -97,11 +103,15 @@ For Full Armor:
 - up to ~+8 → stone is inefficient
 - stone cost > benefit
 
+![Full Armor](screenshot/full_armor_vs_stone.png)
+
 ---
 
 ### Distribution Analysis
 
 Cost distribution is highly skewed:
+
+![Distribution](screenshot/distribution.png)
 
 - **No Stone**
   - high variance
