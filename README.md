@@ -1,5 +1,12 @@
 # Lineage 2 Enchant Cost Analysis
 
+## What I did
+
+- Built Monte Carlo simulation of enchant system  
+- Analyzed cost growth and risk  
+- Compared strategies (with vs without stone)  
+- Visualized distributions and outliers  
+
 ## 1. Overview
 
 This project analyzes the cost and complexity of item enchanting in Lineage 2 using Monte Carlo simulation.
