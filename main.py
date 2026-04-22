@@ -30,7 +30,7 @@ def main():
     fig3 = plot_item_comparison(stats, "Magic Weapon", "Physical Weapon")
 
     # Stone impact (Full Armor)
-    fig4 = plot_with_vs_without_stone(stats, "Full Armor")
+    fig4 = plot_with_vs_without_stone(stats, "Full Armor", log=True)
 
     # Delta / growth analysis
     fig5, fig6 = plot_delta_weapon_analysis(stats, "Physical Weapon")
