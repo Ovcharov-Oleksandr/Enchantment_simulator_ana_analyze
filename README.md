@@ -70,7 +70,7 @@ Cost and attempts grow exponentially with level.
 Magic weapons are significantly more expensive:
 - up to ~10x higher cost and attempts
 
-![Cost & Attempts](screenshot/cost_attempts.png)
+![Cost & Attempts](screenshot/cost_attempt.png)
 
 ---
 
