@@ -45,8 +45,6 @@ Each run:
   - stones used
   - total cost
 
-Implementation: :contentReference[oaicite:0]{index=0}
-
 Key idea:
 - thousands of runs → estimate real distribution (not just average)
 
@@ -60,8 +58,6 @@ From simulation we calculate:
 - `items_used`
 - delta (absolute growth)
 - growth (relative increase)
-
-Aggregation logic: :contentReference[oaicite:1]{index=1}
 
 ---
 
