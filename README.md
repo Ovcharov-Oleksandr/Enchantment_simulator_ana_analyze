@@ -149,6 +149,7 @@ python main.py
 ---
 
 ## 8 Project Structure
+```
 Enchantment_simulator_and_analyze/
 │
 ├── simulation.py      # Monte Carlo simulation logic (core model)
@@ -160,3 +161,4 @@ Enchantment_simulator_and_analyze/
 ├── main.py            # runs analysis and builds plots
 │
 └── README.md
+```
